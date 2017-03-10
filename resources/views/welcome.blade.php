@@ -25,9 +25,10 @@
                 text-align: center;
             }
             input[type="submit"]{
-                height: 600px;
-                width: 60px;
-                font-size:80px
+                font-size:40px
+            }
+            input[type="file"]{
+                font-size:40px
             }
             hr{
                 border: none;
